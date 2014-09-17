@@ -20,9 +20,9 @@ NOTICE: for correct assembling you must have Android SDK installed (https://deve
 
 ###LINK FOR GETTING ANDROID BUILD:
 
-![Image of qr](http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=|1&chl=https%3A%2F%2Fgithub.com%2Fnrudenko%2FSpotTracker%2Fblob%2Fmaster%2FSpotTracker.apk)
+![Image of qr](http://chart.apis.google.com/chart?chs=200x200&cht=qr&chld=|1&chl=https://github.com/nrudenko/SpotTracker/raw/master/SpotTracker.apk)
 
-https://github.com/nrudenko/SpotTracker/blob/master/SpotTracker.apk
+https://github.com/nrudenko/SpotTracker/raw/master/SpotTracker.apk
 
 
 
