@@ -24,12 +24,11 @@
     <string name="hotspot_two">Second hotspot</string>
     <string name="hotspot_three">Third hotspot</string>
     <string name="hotspot_four">Forth hotspot</string>
-    <string name="about">Application draw rect polygon around you position on map.\n Corners of this rect are distant from your location by 20 meters.
-    There are some hotspots in the corners of this rectangle.\n Each hotspot have zone with 10 meters radius(drawed by red circle around marker).
-    When you reach nearest hotspot zone application will notify you with built-in notification.
-    /n/n
-    Note then accuracy of you location depends from GPS signal quality. And if you in the building, signal can has low accuracy.
-    Best result will be received in outdoor.
+    <string name="about">Application draws rect polygon around your position on map. \nCorners of this rect are distant from your location by 20 meters.
+There are some "hotspots" in the corners of this rectangle. \nEach hotspot has zone with 10 meters radius(drawn by red circle around marker).
+\nWhen you reach the nearest "hotspot zone" application will notify you with built-in notification.
+\n\nNote that accuracy of your location depends on GPS signal quality. And if you are in the building or another place where GPS signal can have low accuracy then there is high possibility to get bad results.
+        \nBest result will be received in outdoor.
     </string>
     <string name="connected">GPS connected</string>
 </resources>
